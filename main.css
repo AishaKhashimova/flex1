@@ -1,0 +1,70 @@
+.papa{
+    display: flex;
+    justify-content: center;
+}
+.docha{
+    width: 100px;
+    height: 60px;
+    background-color: red;
+    text-align: center;
+}
+.sinulya{
+    width: 800px;
+    height: 60px;
+    background-color: green;
+    text-align: center;
+}
+.men{
+    width: 900px;
+    height: 50px;
+    background-color: yellow;
+    text-align: center;
+align-items: center;
+}
+.menu{
+    display: flex;
+    justify-content: center;
+}
+.mam{
+    display: flex;
+    justify-content: center;
+
+}
+.baba{
+    width: 300px;
+    height: 250px;
+    background-color: blue  ;
+}
+.ded{
+     width: 300px;
+    height: 250px;
+    background-color: grey  ;
+}
+.babka{
+    width: 300px;
+    height: 250px;
+    background-color: blueviolet  ;
+}
+.opa{
+    display: flex;
+    justify-content: center;
+}
+.aka{
+    width: 800px;
+    height: 500px;
+    background-color: aquamarine;
+    text-align: center;
+}
+.uka{
+    width: 100px;
+    height: 500px;
+    background-color: brown;
+    text-align: center;
+}
+.it{
+    width: 900px;
+    height: 60px;
+    background-color: rgb(51, 51, 104);
+    text-align: center;
+    margin-bottom: 30px;
+}
